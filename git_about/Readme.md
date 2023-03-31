@@ -15,3 +15,4 @@
 * cd67f7c add demo
 * 29637eb init
 ```
+这句话是在`rebase_demo`分支中建立的.
